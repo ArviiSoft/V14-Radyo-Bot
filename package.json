@@ -1,0 +1,32 @@
+{
+  "name": "arviis-7-24-radyo",
+  "version": "1.0.0",
+  "description": "arviis. - 7/24 Radyo Botu",
+  "main": "arvis.js",
+  "scripts": {
+    "test": "node arvis.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArviiSoft/V14-Radyo-Bot.git"
+  },
+
+  "author": "arviis.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArviiSoft/V14-Radyo-Bot/issues"
+  },
+  
+  "homepage": "https://github.com/ArviiSoft/V14-Radyo-Bot#readme",
+  "dependencies": {
+    "@discordjs/voice": "^0.11.0",
+    "discord.js": "^14.2.0",
+    "express": "^4.17.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.3.0",
+    "libsodium-wrappers": "^0.7.10",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.7.0"
+  }
+}
