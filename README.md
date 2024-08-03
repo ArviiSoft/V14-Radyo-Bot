@@ -5,6 +5,8 @@
 
 # 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
 https://www.itemsatis.com/discord/v14-radyo-botu-1741499.html
+
+https://www.itempazar.com/discord-uye-nitro-sunucu/v14-radyo-botu-212854
 # 
 #
 
